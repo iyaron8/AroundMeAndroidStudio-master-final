@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/nezer14/Desktop/AroundMeAndroidStudio-master/AroundMe/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/nezer14/Desktop/AroundMeAndroidStudio-master/AroundMe/build/intermediates/pre-dexed/debug/classes-b902dc0d01d28e8c0c5ed513d6b3c7c51440af49.jar" />
+    </item>
+    <item
+        jar="/Users/nezer14/Desktop/AroundMeAndroidStudio-master/AroundMe/libs/google-http-client-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="041f593dcc111f46f32676e9f6856430f1294ddf">
+        <dex dex="/Users/nezer14/Desktop/AroundMeAndroidStudio-master/AroundMe/build/intermediates/pre-dexed/debug/google-http-client-1.18.0-rc-ab9fd7117d0839f1c2fa667ff0768f8f5e719a38.jar" />
+    </item>
+    <item
+        jar="/Users/nezer14/Desktop/AroundMeAndroidStudio-master/AroundMe/libs/google-api-client-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="15feacc39aa29e06a63bf9041c6e5898f06bade9">
+        <dex dex="/Users/nezer14/Desktop/AroundMeAndroidStudio-master/AroundMe/build/intermediates/pre-dexed/debug/google-api-client-1.18.0-rc-3df566372e45035ad5ee4db06ac0cadb2d6e9ff5.jar" />
+    </item>
+    <item
+        jar="/Users/nezer14/Desktop/AroundMeAndroidStudio-master/AroundMe/libs/google-http-client-jackson2-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="10eb3b8d9551a048ba3ec1b2a5ba7524cd01a45a">
+        <dex dex="/Users/nezer14/Desktop/AroundMeAndroidStudio-master/AroundMe/build/intermediates/pre-dexed/debug/google-http-client-jackson2-1.18.0-rc-51325363b971a8cbb9b37b94c7b0e54aabfd73cd.jar" />
+    </item>
+    <item
+        jar="/Users/nezer14/Desktop/AroundMeAndroidStudio-master/AroundMe/libs/google-http-client-gson-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1681d7019075f7217875b3a16c425582b476a75a">
+        <dex dex="/Users/nezer14/Desktop/AroundMeAndroidStudio-master/AroundMe/build/intermediates/pre-dexed/debug/google-http-client-gson-1.18.0-rc-488fb6ee5228b0f5c30abe749170a6541cc21013.jar" />
+    </item>
+    <item
+        jar="/Users/nezer14/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/nezer14/Desktop/AroundMeAndroidStudio-master/AroundMe/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-7d8a78cfc2e3f4e972098d3e1500d3241879fc21.jar" />
+    </item>
+    <item
+        jar="/Users/nezer14/Desktop/AroundMeAndroidStudio-master/AroundMe/libs/gson-2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2e66da15851f9f5b5079228f856c2f090ba98c38">
+        <dex dex="/Users/nezer14/Desktop/AroundMeAndroidStudio-master/AroundMe/build/intermediates/pre-dexed/debug/gson-2.1-744f31c4a0304655d8f4d4f79723d3982aa7105c.jar" />
+    </item>
+    <item
+        jar="/Users/nezer14/Desktop/AroundMeAndroidStudio-master/AroundMe/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/nezer14/Desktop/AroundMeAndroidStudio-master/AroundMe/build/intermediates/pre-dexed/debug/classes-0ae7b083cb71274bf5dd7ee4df4f3a2c7cfc45da.jar" />
+    </item>
+    <item
+        jar="/Users/nezer14/Desktop/AroundMeAndroidStudio-master/AroundMe/libs/gcm.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c62336e408d6dc3998013f3a4419f1895ad61b6b">
+        <dex dex="/Users/nezer14/Desktop/AroundMeAndroidStudio-master/AroundMe/build/intermediates/pre-dexed/debug/gcm-16e6a32634b942ae32dab2713a66f9ebfd244d6d.jar" />
+    </item>
+    <item
+        jar="/Users/nezer14/Desktop/AroundMeAndroidStudio-master/AroundMe/libs/google-http-client-android-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d4c790c63bcdd9a34f6080c968c70d8af0f2cd2f">
+        <dex dex="/Users/nezer14/Desktop/AroundMeAndroidStudio-master/AroundMe/build/intermediates/pre-dexed/debug/google-http-client-android-1.18.0-rc-4de8ee8d4d0e97070ece2e7a5d4427e28f36a059.jar" />
+    </item>
+    <item
+        jar="/Users/nezer14/Desktop/AroundMeAndroidStudio-master/AroundMe/libs/jackson-core-2.1.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/Users/nezer14/Desktop/AroundMeAndroidStudio-master/AroundMe/build/intermediates/pre-dexed/debug/jackson-core-2.1.3-bb76cb4d0e9378777046baf61068fa09ce42d7ac.jar" />
+    </item>
+    <item
+        jar="/Users/nezer14/Desktop/AroundMeAndroidStudio-master/AroundMe/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/nezer14/Desktop/AroundMeAndroidStudio-master/AroundMe/build/intermediates/pre-dexed/debug/classes-5de30b8f87b60eda31cbed4edcf501550a0f4b5b.jar" />
+    </item>
+    <item
+        jar="/Users/nezer14/Desktop/AroundMeAndroidStudio-master/AroundMe/libs/google-http-client-jdo-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e04b69acdd266c07a104ad8adfad87ae85b3e7fb">
+        <dex dex="/Users/nezer14/Desktop/AroundMeAndroidStudio-master/AroundMe/build/intermediates/pre-dexed/debug/google-http-client-jdo-1.18.0-rc-0d44d1458e23435d54e27df647efdb0b8056b64e.jar" />
+    </item>
+    <item
+        jar="/Users/nezer14/Desktop/AroundMeAndroidStudio-master/AroundMe/libs/jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/Users/nezer14/Desktop/AroundMeAndroidStudio-master/AroundMe/build/intermediates/pre-dexed/debug/jsr305-1.3.9-2adb42079d4d28c80eacbce78f708ca2b9e32355.jar" />
+    </item>
+    <item
+        jar="/Users/nezer14/Desktop/AroundMeAndroidStudio-master/AroundMe/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/nezer14/Desktop/AroundMeAndroidStudio-master/AroundMe/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-abd2b775c8bef5176f2fe0c49cd0998cd1e7b660.jar" />
+    </item>
+    <item
+        jar="/Users/nezer14/Desktop/AroundMeAndroidStudio-master/AroundMe/libs/google-oauth-client-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="84bb5a223e42a5ba974ad51c9712253e662aa1bb">
+        <dex dex="/Users/nezer14/Desktop/AroundMeAndroidStudio-master/AroundMe/build/intermediates/pre-dexed/debug/google-oauth-client-1.18.0-rc-cd2bcf0f874e313ce78f69a8ee8fa153c704e8a8.jar" />
+    </item>
+    <item
+        jar="/Users/nezer14/Desktop/AroundMeAndroidStudio-master/AroundMe/libs/google-api-client-android-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4f30a5725d24b30b35dfeb0278a29233904e19c1">
+        <dex dex="/Users/nezer14/Desktop/AroundMeAndroidStudio-master/AroundMe/build/intermediates/pre-dexed/debug/google-api-client-android-1.18.0-rc-86027b2bfc98313de0de2285f1d6c5136c8f5dc6.jar" />
+    </item>
+
+</items>
